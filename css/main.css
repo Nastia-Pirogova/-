@@ -240,7 +240,7 @@ header.header {
 }
 
 .hero {
-    background-image: url(/images/hero-1.jpg);
+    background-image: url(./images/hero-1.jpg);
     background-repeat: no-repeat;
     background-position: center;
     margin: auto;
