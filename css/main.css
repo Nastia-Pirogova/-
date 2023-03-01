@@ -240,7 +240,7 @@ header.header {
 }
 
 .hero {
-    background-image: url(./images/hero-1.jpg);
+    background-image: url(../images/hero-1.jpg);
     background-repeat: no-repeat;
     background-position: center;
     margin: auto;
@@ -559,7 +559,7 @@ h2.our-advantages-block-text__title {
 }
 
 .about-us-bg {
-    background-image: url("/images/about-us.jpg");
+    background-image: url("../images/about-us.jpg");
     background-repeat: no-repeat;
     background-position: top right;
     margin: auto;
@@ -589,7 +589,7 @@ h2.our-advantages-block-text__title {
 }
 
 .questions-bg {
-    background-image: url("/images/questions.jpg");
+    background-image: url("../images/questions.jpg");
     background-repeat: no-repeat;
     background-position: top left;
     margin: auto;
@@ -775,7 +775,7 @@ ul.footer-information {
 }
 
 .footer {
-    background-image: url(/images/footer.jpg);
+    background-image: url(../images/footer.jpg);
     background-repeat: no-repeat;
     background-position: right;
     margin: auto;
